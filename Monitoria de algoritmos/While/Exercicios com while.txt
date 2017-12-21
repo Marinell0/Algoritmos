@@ -1,0 +1,17 @@
+Exercícios com laço de repetição
+
+1) Faça um programa que gere números primos até um certo número N, entrado pelo usuário.
+
+2) Escreva um programa que pergunte ao usuário quantos alunos tem na sala dele. Em seguida, através de um laço while, pede ao usuário para que entre com as notas de todos os alunos da sala, um por vez. Por fim, o programa deve mostrar a média, aritmética, da turma.
+
+3) Utilizando a lógica do exercício anterior, faça com que a média da turma apenas conte com os alunos que tiraram notas acima da média (notas maiores que 6).
+
+4) Escreva um programa que lê o tamanho do lado de um quadrado e imprime um quadrado daquele tamanho com asteriscos. Seu programa deve funcionar para quadrados com lados de todos os tamanhos entre 1 e 20.
+Por exemplo, para lado igual a 5:
+*****
+*****
+*****
+*****
+*****
+
+5) Faça um programa que vai lendo cada caractere que o usuário digitar. Quando o usuário digitar o caractere 'x', o programa deve exibir todos os caracteres que foram digitados antes do 'x'.
